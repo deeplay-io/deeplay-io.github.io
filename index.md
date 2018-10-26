@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Feeding Data-Hungry Systems
 
-You can use the [editor on GitHub](https://github.com/deeplay-io/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With the current advancements on machine learning, especially on its subset area of deep learning, intelligent applications become extremely data-hungry. The need for uncompromised quality, actionable data increases everyday. That is to say, data becomes the “**new oil**” of our era. To achieve the most accurate results, _human-powered_ data labeling systems become a necessity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Reports
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deeplay-io/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<ul>
+  <li> 
+    <a href="{{ site.url }}/assets/reports/spec.pdf">Project Specifications Report 
+    <img src="{{ site.url }}/assets/icons/pdf-icon.png" height="30" width="30" align="center">
+    </a>
+  </li>
+</ul>  
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to learn more about [Deeplay](http://deeplay.io)? Send a message to `contact@deeplay.io`.

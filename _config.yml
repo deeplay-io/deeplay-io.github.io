@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title:        Deeplay.io
+tagline:      Intelligent Data Labeling Platform
+url: https://deeplay-io.github.io/web
+future: true

@@ -1,6 +1,6 @@
 ## Feeding Data-Hungry Systems
 
-With the current advancements on machine learning, especially on its subset area of deep learning, intelligent applications become extremely data-hungry. The need for uncompromised quality, actionable data increases everyday. That is to say, data becomes the “**new oil**” of our era. To achieve the most accurate results, _human-powered_ data labeling systems become a necessity.
+Deeplay is an intelligent data labeling platform which combines machine learning, gamification and human-in-the-loop approaches to provide easy access to actionable data. With the current advancements on machine learning, especially on its subset area of deep learning, software applications become extremely data-hungry. The need for uncompromised quality, actionable data increases every day. That is to say, data becomes the “new oil” of our era. To achieve the most accurate results, our human-powered data labeling system ensures high-quality with machine-driven checks and crowdsourcing algorithms.
 
 ## Reports
 

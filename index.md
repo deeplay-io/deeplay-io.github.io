@@ -15,6 +15,11 @@ Deeplay is an intelligent data labeling platform which combines machine learning
     <img src="{{ site.url }}/assets/icons/pdf-icon.png" height="30" width="30" align="center">
     </a>
   </li>
+  <li> 
+    <a href="{{ site.url }}/assets/reports/highlevel.pdf">High Level Design Report 
+    <img src="{{ site.url }}/assets/icons/pdf-icon.png" height="30" width="30" align="center">
+    </a>
+  </li>
 </ul>  
 
 ### Support or Contact
